@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **batuhangedik26@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/379nQGi](https://bit.ly/379nQGi)
+- 📄 Know about my experiences [https://bit.ly/3tmOanK](https://bit.ly/3tmOanK)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
