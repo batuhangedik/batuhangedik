@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **batuhangedik26@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://bit.ly/3rYNzey)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1P0lnxvG_D9ZqeY05rY49A2W-aNxG4yOG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
