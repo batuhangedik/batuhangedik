@@ -3,7 +3,8 @@
 
 <p align="center">- 📫 How to reach me **batuhangedik26@gmail.com**</p>
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1E_2LW5plmvm-2tG8aoJFcUhNOv93sQNo/view?usp=sharing)
+<p align="center">- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1E_2LW5plmvm-2tG8aoJFcUhNOv93sQNo/view?usp=sharing">My Resume</a>
+<!-- - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1E_2LW5plmvm-2tG8aoJFcUhNOv93sQNo/view?usp=sharing)--!>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
